@@ -1,0 +1,22 @@
+{
+  "name": "TestModule",
+  "version": "0.1.0",
+  "summary": "A short description of TestModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhao203264@163.com/TestModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhao203264@163.com": "zxl12896@ly.com"
+  },
+  "source": {
+    "git": "https://github.com/zhao203264@163.com/TestModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestModule/Classes/**/*"
+}
